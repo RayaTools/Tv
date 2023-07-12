@@ -1,0 +1,66 @@
+[
+  {
+    "poster": "https://s29.picofile.com/file/8465682834/Tv1.png",
+    "play": "https://liveproxy.splus.ir/hls/tv1/tv1_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682950/Tv2.png",
+    "play": "https://liveproxy.splus.ir/hls/tv2/tv2_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682992/Tv3.png",
+    "play": "https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8"
+  },
+  {
+    "play": "https://liveproxy.splus.ir/hls/tv4/tv4_480/index.m3u8",
+    "poster": "https://s29.picofile.com/file/8465683018/Tv4.png"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465683026/Tv5.png",
+    "play": "https://liveproxy.splus.ir/hls/tv5/tv5_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465683034/Tv6.png",
+    "play": "https://liveproxy.splus.ir/hls/irinn/irinn_480/index.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465683076/Mostanad.png",
+    "play": "https://liveproxy.splus.ir/hls/mostanad/mostanad_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682900/Ofgh.png",
+    "play": "https://fam5.streamer.notenet.ir/famtv/lives/ofogh/vs2/out.m3u8?md5=uo7yf_0Tk4tALscZT5dsZQ&expires=1688256869"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465683042/Amoozesh.png",
+    "play": "https://liveproxy.splus.ir/hls/amoozesh/amoozesh_480/index.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465682942/Sal.png",
+    "play": "https://liveproxy.splus.ir/hls/salamat/salamat_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682876/Nama.png",
+    "play": "https://liveproxy.splus.ir/hls/namayesh/namayesh_480/index.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465682868/Tamasha.png",
+    "play": "https://liveproxy.splus.ir/hls/tamasha/tamasha_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682818/Ifilm.png",
+    "play": "https://liveproxy.splus.ir/hls/ifilm/ifilm_480/index.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465682934/Var.png",
+    "play": "https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465682884/Nasim.png",
+    "play": "https://liveproxy.splus.ir/hls/nasim/nasim_480/index.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465682926/Pooya.png",
+    "play": "https://liveproxy.splus.ir/hls/pooya/pooya_480/index.m3u8"
+  }
+]
