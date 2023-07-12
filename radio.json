@@ -1,0 +1,22 @@
+[
+  {
+    "poster": "https://s28.picofile.com/file/8465787142/Ava.png",
+    "play": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465787184/Far.png",
+    "play": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8"
+  },
+  {
+    "poster": "https://s29.picofile.com/file/8465787242/Mar.png",
+    "play": "http://s0.cdn2.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8"
+  },
+  {
+    "play": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
+    "poster": "https://s28.picofile.com/file/8465787218/Quran.png"
+  },
+  {
+    "poster": "https://s28.picofile.com/file/8465787168/Varr.png",
+    "play": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8"
+  }
+]
