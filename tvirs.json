@@ -1,66 +1,50 @@
 [
   {
-    "poster": "https://s29.picofile.com/file/8465682834/Tv1.png",
-    "play": "https://liveproxy.splus.ir/hls/tv1/tv1_480/index.m3u8"
+    "poster": "https://s30.picofile.com/file/8467379384/Tv1.png",
+    "play": "https://liveproxy.splus.ir/hls/tv1/tv1_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379400/Tv2.png",
+    "play2": "https://liveproxy.splus.ir/hls/tv2/tv2_480/index.m3u8"
   },
   {
-    "poster": "https://s29.picofile.com/file/8465682950/Tv2.png",
-    "play": "https://liveproxy.splus.ir/hls/tv2/tv2_480/index.m3u8"
+    "poster": "https://s30.picofile.com/file/8467379418/Tv3.png",
+    "play": "https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379434/Tv4.png",
+    "play2": "https://liveproxy.splus.ir/hls/tv4/tv4_480/index.m3u8"
   },
   {
-    "poster": "https://s29.picofile.com/file/8465682992/Tv3.png",
-    "play": "https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8"
+    "poster": "https://s30.picofile.com/file/8467379442/Tv5.png",
+    "play": "https://liveproxy.splus.ir/hls/tv5/tv5_480/index.m3u8",
+    "poster2": "https://s31.picofile.com/file/8467379468/Tv6.png",
+    "play2": "https://liveproxy.splus.ir/hls/irinn/irinn_480/index.m3u8"
   },
   {
-    "play": "https://liveproxy.splus.ir/hls/tv4/tv4_480/index.m3u8",
-    "poster": "https://s29.picofile.com/file/8465683018/Tv4.png"
+    "poster": "https://s31.picofile.com/file/8467379618/Mos.png",
+    "play": "https://liveproxy.splus.ir/hls/mostanad/mostanad_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379476/Amoozesh.png",
+    "play2": "https://liveproxy.splus.ir/hls/amoozesh/amoozesh_480/index.m3u8"
   },
   {
-    "poster": "https://s29.picofile.com/file/8465683026/Tv5.png",
-    "play": "https://liveproxy.splus.ir/hls/tv5/tv5_480/index.m3u8"
+    "poster": "https://s31.picofile.com/file/8467379600/Sla.png",
+    "play": "https://liveproxy.splus.ir/hls/salamat/salamat_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379584/Nma.png",
+    "play2": "https://liveproxy.splus.ir/hls/namayesh/namayesh_480/index.m3u8"
   },
   {
-    "poster": "https://s29.picofile.com/file/8465683034/Tv6.png",
-    "play": "https://liveproxy.splus.ir/hls/irinn/irinn_480/index.m3u8"
+    "poster": "https://s31.picofile.com/file/8467379592/Tama.png",
+    "play": "https://liveproxy.splus.ir/hls/tamasha/tamasha_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379576/Ifilm.png",
+    "play2": "https://liveproxy.splus.ir/hls/ifilm/ifilm_480/index.m3u8"
   },
   {
-    "poster": "https://s28.picofile.com/file/8465683076/Mostanad.png",
-    "play": "https://liveproxy.splus.ir/hls/mostanad/mostanad_480/index.m3u8"
+    "poster": "https://s30.picofile.com/file/8467379500/Var.png",
+    "play": "https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8",
+    "poster2": "https://s30.picofile.com/file/8467379534/Na.png",
+    "play2": "https://liveproxy.splus.ir/hls/nasim/nasim_480/index.m3u8"
   },
   {
-    "poster": "https://s29.picofile.com/file/8465682900/Ofgh.png",
-    "play": "https://cdnw.telewebion.com/ofogh/live/playlist.m3u8"
-  },
-  {
-    "poster": "https://s29.picofile.com/file/8465683042/Amoozesh.png",
-    "play": "https://liveproxy.splus.ir/hls/amoozesh/amoozesh_480/index.m3u8"
-  },
-  {
-    "poster": "https://s28.picofile.com/file/8465682942/Sal.png",
-    "play": "https://liveproxy.splus.ir/hls/salamat/salamat_480/index.m3u8"
-  },
-  {
-    "poster": "https://s29.picofile.com/file/8465682876/Nama.png",
-    "play": "https://liveproxy.splus.ir/hls/namayesh/namayesh_480/index.m3u8"
-  },
-  {
-    "poster": "https://s28.picofile.com/file/8465682868/Tamasha.png",
-    "play": "https://liveproxy.splus.ir/hls/tamasha/tamasha_480/index.m3u8"
-  },
-  {
-    "poster": "https://s29.picofile.com/file/8465682818/Ifilm.png",
-    "play": "https://liveproxy.splus.ir/hls/ifilm/ifilm_480/index.m3u8"
-  },
-  {
-    "poster": "https://s28.picofile.com/file/8465682934/Var.png",
-    "play": "https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8"
-  },
-  {
-    "poster": "https://s29.picofile.com/file/8465682884/Nasim.png",
-    "play": "https://liveproxy.splus.ir/hls/nasim/nasim_480/index.m3u8"
-  },
-  {
-    "poster": "https://s28.picofile.com/file/8465682926/Pooya.png",
-    "play": "https://liveproxy.splus.ir/hls/pooya/pooya_480/index.m3u8"
+    "poster": "https://s30.picofile.com/file/8467379542/Po.png",
+    "play": "https://liveproxy.splus.ir/hls/poya/poya_480/index.m3u8",
+    "poster2": "https://s31.picofile.com/file/8467380434/press.png",
+    "play2": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8"
   }
 ]
