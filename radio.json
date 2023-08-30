@@ -12,8 +12,8 @@
     "play": "http://s0.cdn2.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8"
   },
   {
-    "play": "https://s31.picofile.com/file/8467651368/qur.png",
-    "poster": "https://s28.picofile.com/file/8465787218/Quran.png"
+    "play": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
+    "poster": "https://s31.picofile.com/file/8467651368/qur.png"
   },
   {
     "poster": "https://s30.picofile.com/file/8467651234/radiovar.png",
