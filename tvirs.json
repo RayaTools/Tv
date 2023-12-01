@@ -1,33 +1,33 @@
 [
   {
     "poster": "https://s30.picofile.com/file/8467379384/Tv1.png",
-    "play": "https://liveproxy.splus.ir/hls/tv1/tv1_40/index.m3u8",
+    "play": "http://mybox.plus:80/live/64367xfd6311/654345addaa/190562.ts",
     "poster2": "https://s30.picofile.com/file/8467379400/Tv2.png",
-    "play2": "https://liveproxy.splus.ir/hls/tv2/tv2_480/index.m3u8"
+    "play2": "http://mybox.plus:80/live/64367xfd6311/654345addaa/190563.ts"
   },
   {
     "poster": "https://s30.picofile.com/file/8467379418/Tv3.png",
-    "play": "https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8",
+    "play": "http://mybox.plus/live/64367xfd6311/654345addaa/190564.ts",
     "poster2": "https://s30.picofile.com/file/8467379434/Tv4.png",
-    "play2": "https://liveproxy.splus.ir/hls/tv4/tv4_480/index.m3u8"
+    "play2": "http://mybox.plus/live/64367xfd6311/654345addaa/190566.ts"
   },
   {
     "poster": "https://s30.picofile.com/file/8467379442/Tv5.png",
-    "play": "https://liveproxy.splus.ir/hls/tv5/tv5_480/index.m3u8",
+    "play": "http://mybox.plus/live/64367xfd6311/654345addaa/190567.ts",
     "poster2": "https://s31.picofile.com/file/8467379468/Tv6.png",
-    "play2": "https://liveproxy.splus.ir/hls/irinn/irinn_480/index.m3u8"
+    "play2": "http://mybox.plus/live/64367xfd6311/654345addaa/190568.ts"
   },
   {
     "poster": "https://s31.picofile.com/file/8467379618/Mos.png",
-    "play": "https://liveproxy.splus.ir/hls/mostanad/mostanad_480/index.m3u8",
+    "play": "http://mybox.plus/live/64367xfd6311/654345addaa/190649.ts",
     "poster2": "https://s30.picofile.com/file/8467379476/Amoozesh.png",
-    "play2": "https://liveproxy.splus.ir/hls/amoozesh/amoozesh_480/index.m3u8"
+    "play2": "http://mybox.plus/live/64367xfd6311/654345addaa/190647.ts"
   },
   {
     "poster": "https://s31.picofile.com/file/8467379600/Sla.png",
     "play": "https://liveproxy.splus.ir/hls/salamat/salamat_480/index.m3u8",
     "poster2": "https://s30.picofile.com/file/8467379584/Nma.png",
-    "play2": "https://liveproxy.splus.ir/hls/namayesh/namayesh_480/index.m3u8"
+    "play2": "http://mybox.plus/live/64367xfd6311/654345addaa/190650.ts"
   },
   {
     "poster": "https://s31.picofile.com/file/8467379592/Tama.png",
