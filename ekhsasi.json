@@ -1,13 +1,13 @@
 [
   {
-    "poster": "https://s30.picofile.com/file/8467674968/aiosp.png",
-    "play": "https://live.aionet.ir/hls/aiosport/aiosport_1080/index.m3u8",
-    "poster2": "https://s30.picofile.com/file/8467674950/aioflim.png",
-    "play2": "https://liveproxy.splus.ir/hls/tv2/tv2_480/index.m3u8"
+    "poster": "https://s31.picofile.com/file/8470945618/music.png",
+    "play": "http://tv.peepbox.ir:25461/peepboxtv/kjsfdbkvewrdv/208",
+    "poster2": "https://s30.picofile.com/file/8470945642/cinema.png",
+    "play2": "http://tv.peepbox.ir:25461/peepboxtv/kjsfdbkvewrdv/37"
   },
   {
-    "poster": "https://s31.picofile.com/file/8467674934/aiotoon.png",
-    "play": "https://liveproxy.splus.ir/hls/tv3/tv3_480/index.m3u8",
+    "poster": "https://s30.picofile.com/file/8470945650/junior.png",
+    "play": "http://tv.peepbox.ir:25461/peepboxtv/kjsfdbkvewrdv/36",
     "poster2": "https://s31.picofile.com/file/8467674926/dorfa.png",
     "play2": "https://live.aionet.ir/hls/dorfa/dorfa_720/index.m3u8"
   },
@@ -22,11 +22,5 @@
     "play": "https://live.aionet.ir/hls/iraneconomy/iraneconomy_720/index.m3u8",
     "poster2": "https://s31.picofile.com/file/8467674884/esha.png",
     "play2": "https://live.aionet.ir/hls/eshareh/eshareh_720/index.m3u8"
-  },
-  {
-    "poster": "https://s30.picofile.com/file/8467674876/movie.png",
-    "play": "https://liveproxy.splus.ir/hls/salamat/salamat_480/index.m3u8",
-    "poster2": "https://s30.picofile.com/file/8467379584/Nma.png",
-    "play2": "https://liveproxy.splus.ir/hls/namayesh/namayesh_480/index.m3u8"
   }
 ]
