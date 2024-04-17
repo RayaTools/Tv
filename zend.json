@@ -1,12 +1,17 @@
 [
   {
-    "poster": "https://devcdn.heon.ir/Haram/2022/03/17/5797a6d4-b752-474c-9e74-14fae74dfc9d.jpeg",
+    "poster": "https://s30.picofile.com/file/8474439068/Zia.png",
     "name": "ضریح حرم امام رضا",
     "play": "https://stream01.nasimrezvan.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8"
   },
   {
-    "poster": "https://s30.picofile.com/file/8471853650/Zen.png",
+    "poster": "https://s31.picofile.com/file/8474439050/Var.png",
     "name": "پخش زنده فوتبال",
-    "play": "https://uploadkon.ir/uploads/a21623_24InShot-20240123-232019532.mp4"
+    "play": "https://uploadkon.ir/uploads/df4817_24270-2-vmake.mp4"
+  },
+  {
+    "poster": "https://s30.picofile.com/file/8474439092/Game.png",
+    "name": "پخش زنده گیم",
+    "play": "https://uploadkon.ir/uploads/1f0e17_24270-1-vmake-1-.mp4"
   }
 ]
